@@ -1,0 +1,48 @@
+{
+  "_args": [
+    [
+      "react-app-rewire-less-modules@1.1.0",
+      "/Users/chenzhi/workspace/gds"
+    ]
+  ],
+  "_development": true,
+  "_from": "react-app-rewire-less-modules@1.1.0",
+  "_id": "react-app-rewire-less-modules@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-Yy43p7IVeVKGVEmNIqVq71ZwwyE=",
+  "_location": "/react-app-rewire-less-modules",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-app-rewire-less-modules@1.1.0",
+    "name": "react-app-rewire-less-modules",
+    "escapedName": "react-app-rewire-less-modules",
+    "rawSpec": "1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "1.1.0"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-app-rewire-less-modules/download/react-app-rewire-less-modules-1.1.0.tgz",
+  "_spec": "1.1.0",
+  "_where": "/Users/chenzhi/workspace/gds",
+  "dependencies": {
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
+    "lodash.clonedeep": "^4.5.0"
+  },
+  "description": "Add [CSS Module](https://github.com/css-modules/css-modules) loaders to your [create-react-app](https://github.com/facebookincubator/create-react-app) via [react-app-rewired](https://github.com/timarney/react-app-rewired).",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "name": "react-app-rewire-less-modules",
+  "peerDependencies": {
+    "react-app-rewired": "^1.3.6"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "version": "1.1.0"
+}
